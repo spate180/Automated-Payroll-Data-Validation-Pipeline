@@ -113,7 +113,7 @@ Each layer tracks progress independently via `raw.etl_watermark`. Only rows with
 ### 1. Clone and set up Python environment
 
 ```bash
-git clone https://github.com/kirtanshrestha/nyc_payroll
+git clone https://github.com/spate180/Automated-Payroll-Data-Validation-Pipeline.git
 cd nyc_payroll
 python -m venv venv
 venv\Scripts\activate
